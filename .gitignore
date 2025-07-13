@@ -1,0 +1,9 @@
+dataset/*
+saved_best/*
+__pycache__/*
+log_tensorboard/*
+saved/*
+log/*
+saved_models_for_embedding/*
+*.pyc
+log_*/*

@@ -1,0 +1,23 @@
+normalize: l2
+reg: 10
+epsilon: 100
+predict_weight: 2.0
+
+remove_history_item: False
+
+# save_path: 'saved/SLIS_yoochoose'
+save_path: None
+
+direction: all
+train_weight: 1.0
+alpha: 0.5
+
+# dropout
+use_dropout: False
+p: 0.5
+
+#  not used
+loss_type: CE
+eval_batch_size: 10240
+
+folder: 'base'
